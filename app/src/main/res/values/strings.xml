@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Renju</string>
+    <string name="desc"/>
+    <string name="black_chess">Black</string>
+    <string name="white_chess">White</string>
+    <string name="undo">Rollback</string>
+    <string name="suggest">Hint</string>
+    <string name="choose_chess">Pick the color</string>
+    <string name="first">First Hand</string>
+    <string name="after">Back Hand</string>
+    <string name="newRenju">New</string>
+    <string name="level">Level</string>
+    <string name="rule">Rule</string>
+    <string name="black_win">Black Player wins</string>
+    <string name="white_win">White Player wins</string>
+    <string name="no_win">Draw</string>
+    <string name="ai_thing">AI is thinking</string>
+    <string name="human_human">Vs Player</string>
+    <string name="human_computer">Vs AI</string>
+</resources>
