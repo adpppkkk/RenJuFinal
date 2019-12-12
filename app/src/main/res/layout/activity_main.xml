@@ -49,16 +49,6 @@
         app:rippleColor="@color/colorPrimaryDark"/>
 
     <android.support.design.button.MaterialButton
-        android:id="@+id/rule"
-        style="@style/Renju.EndAdd"
-        android:text="@string/rule"
-        app:backgroundTint="@color/colorPrimary"
-        app:cornerRadius="6dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/suggest"
-        app:rippleColor="@color/colorPrimaryDark"/>
-
-    <android.support.design.button.MaterialButton
         android:id="@+id/level"
         style="@style/Renju"
         app:backgroundTint="@color/colorPrimary"
